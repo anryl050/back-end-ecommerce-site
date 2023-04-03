@@ -39,7 +39,7 @@ N/A
 
 
 ## Demo Video
-[Demo Video 1 - Categories]([Untitled_ Apr 2, 2023 6_57 PM.webm](https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm)
+[Demo Video 1 - Categories](https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm
 )
 
 

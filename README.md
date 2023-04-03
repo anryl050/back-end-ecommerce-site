@@ -39,7 +39,8 @@ N/A
 
 
 ## Demo Video
-Demo Video 1 - Categories (https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm)
+Demo Video 1 - Categories 
+https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm
 
 Demo Video 2 - Tags
 (https://user-images.githubusercontent.com/118693401/229403168-8fd4bedc-a824-41a6-8303-adc92f62e934.webm)

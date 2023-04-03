@@ -39,14 +39,19 @@ N/A
 
 
 ## Demo Video
-Demo Video 1 - Categories 
-https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm
+Demo Video 1 - Categories
+
+[Demo Video 1 - Categories](https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm)
+
 
 Demo Video 2 - Tags
-(https://user-images.githubusercontent.com/118693401/229403168-8fd4bedc-a824-41a6-8303-adc92f62e934.webm)
+
+[Demo Video 2 - Tags](https://user-images.githubusercontent.com/118693401/229403168-8fd4bedc-a824-41a6-8303-adc92f62e934.webm)
+
 
 Demo Video 3 - Products
-(https://user-images.githubusercontent.com/118693401/229406916-1993dbf6-7a3e-474f-bf6a-c02cc98bc49e.webm)
+
+[Demo Video 3 - Products](https://user-images.githubusercontent.com/118693401/229407582-8fd9b2de-cf3e-4c6e-aa83-34eaa77e3636.webm)
 
 
 ## Installation/Technical Requirements

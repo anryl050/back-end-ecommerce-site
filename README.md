@@ -39,18 +39,24 @@ N/A
 
 
 ## Demo Video
-[Demo Video 1 - Categories](https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm
-)
+Demo Video 1 - Categories
+(https://user-images.githubusercontent.com/118693401/229394921-17bfbce5-d3ce-4636-a555-c0389256369e.webm)
+
+Demo Video 2 - Tags
+(https://user-images.githubusercontent.com/118693401/229403168-8fd4bedc-a824-41a6-8303-adc92f62e934.webm)
+
+Demo Video 3 - Products
+(https://user-images.githubusercontent.com/118693401/229406916-1993dbf6-7a3e-474f-bf6a-c02cc98bc49e.webm)
 
 
 ## Installation/Technical Requirements
 - User needs to install [node.js (version 18.15.0 LTS)](https://nodejs.org/en/).
 - To use the application user has to list the following as dependencies in the package.json file:
   - [inquirer (version 8.2.4)](https://www.npmjs.com/package/inquirer/v/8.2.4),
-  - [dotenv (version 8.2.0)](),
-  - [express (version 4.17.1)](),
+  - [dotenv (version 8.2.0)](https://www.npmjs.com/package/dotenv/v/8.2.0),
+  - [express (version 4.18.2)](https://www.npmjs.com/package/express),
   - [MySQL2 (version 3.2.0)](https://www.npmjs.com/package/mysql2),
-  - [Sequile (version 5.21.7)]().
+  - [Sequile (version 6.30.0)](https://www.npmjs.com/package/sequelize).
 
 ## Usage
 - To use the application, the user has to:
